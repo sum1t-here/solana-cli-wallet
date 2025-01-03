@@ -60,7 +60,20 @@ bun run index.ts
 
 ## Demo
 
+https://github.com/user-attachments/assets/14db13ad-40c1-45fa-8990-42d81200d7bf
+
 ## Screenshots
+
+<img width="1440" alt="Screenshot 2025-01-03 at 3 05 38 PM" src="https://github.com/user-attachments/assets/05f632ac-2622-4b32-a38e-f5a561e22be8" />
+
+<img width="1440" alt="Screenshot 2025-01-03 at 3 06 42 PM" src="https://github.com/user-attachments/assets/12047c12-8c32-43cc-94ff-69f5a3fa8369" />
+
+<img width="1440" alt="Screenshot 2025-01-03 at 3 07 06 PM" src="https://github.com/user-attachments/assets/d45b37fb-0b27-406e-b8d0-a8f0280181e7" />
+
+<img width="1440" alt="Screenshot 2025-01-03 at 3 07 50 PM" src="https://github.com/user-attachments/assets/02ecf05a-1e39-4d4e-b0aa-189d79f626dd" />
+
+
+
 
 ## Dependencies
 
